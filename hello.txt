@@ -12,7 +12,7 @@ Hello git!hot-fix
 Hello git!
 Hello git!
 Hello git!
-Hello git!
+Hello git!master test
 Hello git!
 Hello git!
 Hello git!
